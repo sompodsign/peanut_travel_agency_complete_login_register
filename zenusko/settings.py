@@ -79,7 +79,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'zenusko',
         'USER': 'postgres',
-        'PASSWORD': '',
+        'PASSWORD': '12345',
         'HOST': 'localhost'
     }
 }
